@@ -1,6 +1,3 @@
-test.ipynb
-test2.ipynb
-test_finale.ipynb
 .venv/
 *.parquet
 *.csv

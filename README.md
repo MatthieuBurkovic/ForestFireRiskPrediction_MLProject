@@ -12,6 +12,8 @@ forest fires : https://bdiff.agriculture.gouv.fr/incendies (select the correct t
 
 french towns : https://www.data.gouv.fr/datasets/communes-et-villes-de-france-en-csv-excel-json-parquet-et-feather (needed because the forest fires are linked to a town and not geographic coordinates)
 
+Don't forget to put the csv in the PreparingData folder !!
+
 Order in which to run the python files to get the final dataset: 
 
 fork.py
