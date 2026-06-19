@@ -5,7 +5,8 @@ where to download all the datasets:
 weather dataset : https://meteo.data.gouv.fr/datasets/donnees-changement-climatique-sim-quotidienne/
 (need to download 2 datasets to get the data from 2015 to 2024)
 
-forests : https://inventaire-forestier.ign.fr/dataifn/
+forests : https://inventaire-forestier.ign.fr/dataifn/ 
+(Only need 2 of the csv files : ARBRE.csv and PLACETTE.csv)
 
 forest fires : https://bdiff.agriculture.gouv.fr/incendies (select the correct time period before downloading)
 
